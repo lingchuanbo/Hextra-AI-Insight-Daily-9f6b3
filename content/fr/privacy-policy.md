@@ -4,164 +4,174 @@ type: page
 sidebar:
   exclude: true
 ---
-# Politique de confidentialité
 
-*Dernière mise à jour : 1er juin 2025*
+# 隐私政策
+
+*最后更新日期：2025年6月1日*
 
 ---
 
-Cette politique de confidentialité décrit nos politiques et procédures concernant la collecte, l'utilisation et la divulgation de tes infos quand tu utilises ce Service, et t'informe de tes droits en matière de confidentialité et comment la loi te protège.
+本隐私政策描述了当您使用本服务时，我们关于收集、使用和披露您信息的政策和程序，并告知您所享有的隐私权以及法律如何保护您。
 
-On utilise tes données perso pour fournir et améliorer le Service. En utilisant ce Service, tu acceptes qu'on collecte et utilise des infos conformément à cette politique de confidentialité.
+我们使用您的个人数据来提供和改进本服务。使用本服务即表示您同意我们根据本隐私政策收集和使用信息。
 
-## Interprétation et Définitions
+## 解释与定义
 
-### Interprétation
-Les mots dont la première lettre est majuscule ont une signification définie dans les conditions suivantes. Les définitions suivantes auront le même sens qu'ils apparaissent au singulier ou au pluriel.
+### 解释
+首字母大写的词语具有在以下条件下定义的含义。无论其以单数还是复数形式出现，下列定义均具有相同的含义。
 
-### Définitions
-Aux fins de cette Politique de confidentialité :
+### 定义
+为本隐私政策之目的：
 
-- **Compte** Désigne un compte unique créé pour toi afin d'accéder à notre Service ou à des parties de notre Service.
+- **账户** 指为您创建的用于访问我们服务或服务部分内容的唯一账户。
 
-- **Filiale** Désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où le « contrôle » signifie la possession de 50 % ou plus des actions, participations ou autres titres donnant le droit de vote pour l'élection des administrateurs ou autres autorités de gestion.
+- **关联公司** 指控制一方、被一方控制或与一方共同受控的实体，其中“控制”指拥有50%或以上的股份、股权或其他有权投票选举董事或其他管理机构的证券。
 
-- **Société** (désignée dans le présent accord par « la Société », « Nous » ou « Nos ») désigne **何夕2077的 AI 日报**.
+- **公司** (在本协议中称为“公司”、“我们”或“我们的”) 指 **何夕2077的 AI 日报**。
 
-- **Cookies** De petits fichiers placés sur ton ordi, ton appareil mobile ou tout autre appareil par un site web, contenant les détails de ton historique de navigation sur ce site, entre autres utilisations.
+- **Cookies** 是网站放置在您的计算机、移动设备或任何其他设备上的小文件，其中包含您在该网站上的浏览历史详情等多种用途。
 
-- **Pays** Désigne : Californie, États-Unis.
+- **国家** 指：美国加利福尼亚州。
 
-- **Appareil** Désigne tout appareil qui peut accéder au Service, comme un ordi, un téléphone portable ou une tablette numérique.
+- **设备** 指任何可以访问本服务的设备，如计算机、手机或数字平板电脑。
 
-- **Données personnelles** Toute info liée à une personne identifiée ou identifiable.
+- **个人数据** 是与已识别或可识别的个人相关的任何信息。
 
-- **Service** Désigne le Site Web.
+- **服务** 指本网站。
 
-- **Fournisseur de services** Désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Cela fait référence à des sociétés tierces ou des individus employés par la Société pour faciliter le Service, fournir le Service au nom de la Société, exécuter des services liés au Service ou aider la Société à analyser comment le Service est utilisé.
+- **服务提供商** 指代表公司处理数据的任何自然人或法人。它指代由公司聘请的第三方公司或个人，以协助提供服务、代表公司提供服务、执行与服务相关的服务或协助公司分析服务使用情况。
 
-- **Données d'utilisation** Désigne les données collectées automatiquement, générées soit par l'utilisation du Service, soit par l'infrastructure du Service elle-même (par exemple, la durée d'une visite de page).
+- **使用数据** 指自动收集的数据，这些数据由使用服务或服务基础设施本身生成（例如，页面访问的持续时间）。
 
-- **Site Web** Désigne **何夕2077的 AI 日报**, accessible depuis `https://ai.hubtoday.app/`.
+- **网站** 指 **何夕2077的 AI 日报**，可从 `https://ai.hubtoday.app/` 访问。
 
-- **Tu** Désigne la personne qui accède ou utilise le Service, ou la société ou autre entité juridique au nom de laquelle cette personne accède ou utilise le Service.
+- **您** 指访问或使用本服务的个人，或代表该个人访问或使用本服务的公司或其他法律实体。
 
-## Collecte et utilisation de tes données personnelles
+## 收集和使用您的个人数据
 
-### Types de données collectées
+### 收集的数据类型
 
-#### Données personnelles
-Quand tu utilises notre Service, on peut te demander de nous fournir des infos perso identifiables qui peuvent être utilisées pour te contacter ou t'identifier. Les infos perso identifiables peuvent inclure, sans s'y limiter :
+#### 个人数据
+在使用我们的服务时，我们可能会要求您提供某些可用于联系或识别您的个人身份信息。个人身份信息可能包括但不限于：
 
-- Adresse e-mail
-- Données d'utilisation
+- 电子邮件地址
+- 使用数据
 
-#### Données d'utilisation
-Les Données d'utilisation sont collectées automatiquement quand tu utilises le Service.
+#### 使用数据
+使用服务时会自动收集使用数据。
 
-Les Données d'utilisation peuvent inclure des infos comme l'adresse IP de ton Appareil (par exemple, adresse IP), le type de navigateur, la version du navigateur, les pages de notre Service que tu visites, l'heure et la date de ta visite, le temps passé sur ces pages, les identifiants uniques de l'appareil et d'autres données de diagnostic.
+使用数据可能包括您设备的互联网协议地址（例如 IP 地址）、浏览器类型、浏览器版本、您访问我们服务的页面、您访问的时间和日期、在这些页面上花费的时间、唯一设备标识符和其他诊断数据。
 
-Quand tu accèdes au Service via un appareil mobile, on peut collecter automatiquement certaines infos, incluant, sans s'y limiter, le type d'appareil mobile que tu utilises, l'ID unique de ton appareil mobile, l'adresse IP de ton appareil mobile, ton système d'exploitation mobile, le type de navigateur Internet mobile que tu utilises, les identifiants uniques de l'appareil et d'autres données de diagnostic.
+当您通过移动设备访问服务时，我们可能会自动收集某些信息，包括但不限于您使用的移动设备类型、您的移动设备唯一ID、您移动设备的IP地址、您的移动操作系统、您使用的移动互联网浏览器类型、唯一设备标识符和其他诊断数据。
 
-On peut aussi collecter les infos que ton navigateur envoie chaque fois que tu visites notre Service ou quand tu accèdes au Service via un appareil mobile.
+当您访问我们的服务或通过移动设备访问服务时，我们也可能收集您的浏览器发送的信息。
 
-### Technologies de suivi et Cookies
-On utilise des Cookies et des technologies de suivi similaires pour suivre l'activité sur notre Service et stocker certaines infos. Les technologies de suivi utilisées sont des balises, des tags et des scripts pour collecter et suivre les infos, et pour améliorer et analyser notre Service. Les technologies qu'on utilise peuvent inclure :
+### 追踪技术和 Cookies
+我们使用 Cookies 和类似的追踪技术来追踪我们服务上的活动并存储某些信息。使用的追踪技术包括信标、标签和脚本，用于收集和追踪信息，并改进和分析我们的服务。我们使用的技术可能包括：
 
-- **Cookies ou cookies de navigateur** : Un Cookie est un petit fichier placé sur ton appareil. Tu peux demander à ton navigateur de refuser tous les Cookies ou d'indiquer quand un Cookie est envoyé. Cependant, si tu n'acceptes pas les Cookies, tu pourrais ne pas pouvoir utiliser certaines parties de notre Service. À moins que tu n'aies ajusté les paramètres de ton navigateur pour refuser les Cookies, notre Service pourrait utiliser des Cookies.
-- **Balises Web** : Certaines sections de notre Service et nos e-mails peuvent contenir de petits fichiers électroniques appelés balises web (également appelées gifs transparents, balises pixel et gifs à pixel unique) qui permettent à la Société, par exemple, de compter les utilisateurs qui ont visité ces pages ou ouvert un e-mail et pour d'autres statistiques de site web liées (par exemple, enregistrer la popularité d'une certaine section et vérifier l'intégrité du système et du serveur).
+- **Cookies 或浏览器 Cookies**：Cookie 是放置在您设备上的一个小文件。您可以指示您的浏览器拒绝所有 Cookies 或在发送 Cookie 时进行提示。但是，如果您不接受 Cookies，您可能无法使用我们服务的某些部分。除非您已调整浏览器设置以拒绝 Cookies，否则我们的服务可能会使用 Cookies。
+- **Web Beacons**：我们服务的某些部分和我们的电子邮件可能包含称为网络信标的小型电子文件（也称为透明GIF、像素标签和单像素GIF），这些文件允许公司（例如）统计访问过这些页面或打开过电子邮件的用户，并用于其他相关的网站统计（例如，记录某个部分的受欢迎程度并验证系统和服务器的完整性）。
 
-Les Cookies peuvent être des Cookies « persistants » ou « de session ». Les Cookies persistants restent sur ton ordinateur personnel ou ton appareil mobile quand tu te déconnectes, tandis que les Cookies de session sont supprimés dès que tu fermes ton navigateur web.
+Cookies 可以是“持久性”或“会话性”Cookies。当您离线时，持久性 Cookies 会保留在您的个人计算机或移动设备上，而会话性 Cookies 会在您关闭网络浏览器后立即删除。
 
-On utilise à la fois des Cookies de session et des Cookies persistants aux fins énoncées ci-dessous :
+我们出于以下目的同时使用会话性和持久性 Cookies：
 
-- **Cookies nécessaires / essentiels**
-  - **Type** : Cookies de session
-  - **Administré par** : Nous
-  - **Objectif** : Ces Cookies sont essentiels pour te fournir les services disponibles via le Site Web et te permettre d'utiliser certaines de ses fonctionnalités. Ils aident à authentifier les utilisateurs et à prévenir l'utilisation frauduleuse des comptes utilisateurs. Sans ces Cookies, les services que tu as demandés ne peuvent pas être fournis, et on utilise uniquement ces Cookies pour te fournir ces services.
+- **必要/基本 Cookies**
+  - **类型**：会话 Cookies
+  - **管理者**：我们
+  - **目的**：这些 Cookies 对于通过网站向您提供可用服务以及使您能够使用其某些功能至关重要。它们有助于验证用户身份并防止欺诈性使用用户账户。没有这些 Cookies，您所要求的服务将无法提供，我们仅使用这些 Cookies 为您提供这些服务。
 
-- **Politique de Cookies / Acceptation des Cookies**
-  - **Type** : Cookies persistants
-  - **Administré par** : Nous
-  - **Objectif** : Ces Cookies identifient si les utilisateurs ont accepté l'utilisation de Cookies sur le Site Web.
+- **Cookies 政策 / 通知接受 Cookies**
+  - **类型**：持久性 Cookies
+  - **管理者**：我们
+  - **目的**：这些 Cookies 用于识别用户是否已接受在网站上使用 Cookies。
 
-- **Cookies de fonctionnalité**
-  - **Type** : Cookies persistants
-  - **Administré par** : Nous
-  - **Objectif** : Ces Cookies nous permettent de nous souvenir des choix que tu fais lorsque tu utilises le Site Web, comme la mémorisation de tes infos de connexion ou de tes préférences linguistiques. L'objectif de ces Cookies est de te fournir une expérience plus perso et d'éviter que tu aies à ressaisir tes préférences chaque fois que tu utilises le Site Web.
+- **功能性 Cookies**
+  - **类型**：持久性 Cookies
+  - **管理者**：我们
+  - **目的**：这些 Cookies 使我们能够记住您在使用网站时所做的选择，例如记住您的登录信息或语言偏好。这些 Cookies 的目的是为您提供更个性化的体验，避免您每次使用网站时都必须重新输入您的偏好。
 
-Pour plus d'infos sur les cookies qu'on utilise et tes choix concernant les cookies, consulte notre Politique de Cookies ou la section Cookies de notre Politique de confidentialité.
+有关我们使用的 Cookies 和您关于 Cookies 的选择的更多信息，请访问我们的 Cookies 政策或我们隐私政策的 Cookies 部分。
 
-### Utilisation de tes données personnelles
-La Société peut utiliser les Données personnelles aux fins suivantes :
+### 您个人数据的使用
+公司可能为以下目的使用个人数据：
 
-- **Pour fournir et maintenir notre Service**, y compris la surveillance de l'utilisation de notre Service.
-- **Pour gérer ton Compte** : gérer ton inscription en tant qu'utilisateur du Service. Les Données personnelles que tu fournis peuvent te donner accès à différentes fonctionnalités du Service disponibles en tant qu'utilisateur enregistré.
-- **Pour l'exécution d'un contrat** : le développement, le respect et l'exécution du contrat d'achat pour les produits, articles ou services que tu as achetés ou de tout autre contrat avec nous via le Service.
-- **Pour te contacter** : Te contacter par e-mail, téléphone, SMS ou autre forme de communication électronique équivalente, comme les notifications push d'une application mobile, concernant des mises à jour ou des communications informatives liées aux fonctionnalités, produits ou services contractuels, y compris les mises à jour de sécurité, lorsque cela est nécessaire ou raisonnable pour leur mise en œuvre.
-- **Pour te fournir des actualités**, des offres spéciales et des infos générales sur d'autres biens, services et événements que nous proposons et qui sont similaires à ceux que tu as déjà achetés ou pour lesquels tu as demandé des renseignements, à moins que tu n'aies choisi de ne pas recevoir de telles infos.
-- **Pour gérer tes demandes** : Pour gérer et traiter tes demandes à notre égard.
-- **Pour les transferts d'entreprise** : On peut utiliser tes infos pour évaluer ou effectuer une fusion, une cession, une restructuration, une réorganisation, une dissolution ou toute autre vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu'entreprise en activité ou dans le cadre d'une faillite, d'une liquidation ou d'une procédure similaire, dans laquelle les Données personnelles détenues par nous concernant nos utilisateurs du Service font partie des actifs transférés.
-- **Pour d'autres fins** : On peut utiliser tes infos à d'autres fins, telles que l'analyse de données, l'identification des tendances d'utilisation, la détermination de l'efficacité de nos campagnes de promotion, ainsi que pour évaluer et améliorer notre Service, nos produits, notre marketing et ton expérience.
+- **为提供和维护我们的服务**，包括监控我们服务的使用情况。
+- **为管理您的账户**：管理您作为服务用户的注册。您提供的个人数据可以使您访问作为注册用户可用的不同功能。
+- **为履行合同**：为您购买的产品、物品或服务制定、遵守和履行购买合同，或通过本服务与我们签订的任何其他合同。
+- **为与您联系**：通过电子邮件、电话、短信或其他等效的电子通信形式（如移动应用程序的推送通知）与您联系，告知与功能、产品或已签约服务相关的更新或信息性通信，包括安全更新，当这些是必要或合理的时候。
+- **为您提供新闻**、特别优惠和关于我们提供的其他商品、服务和活动的一般信息，这些信息与您已购买或查询的类似，除非您选择不接收此类信息。
+- **为管理您的请求**：处理和管理您向我们提出的请求。
+- **为业务转让**：我们可能使用您的信息来评估或进行合并、剥离、重组、改组、解散或其他部分或全部资产的出售或转让，无论是以持续经营的方式还是作为破产、清算或类似程序的一部分，其中我们持有的关于我们服务用户的个人数据是转让的资产之一。
+- **为其他目的**：我们可能将您的信息用于其他目的，如数据分析、识别使用趋势、确定我们促销活动的有效性，以及评估和改进我们的服务、产品、营销和您的体验。
 
-On peut partager tes infos personnelles dans les situations suivantes :
+我们可能在以下情况下共享您的个人信息：
 
-- **Avec des Fournisseurs de services** : On peut partager tes infos personnelles avec des Fournisseurs de services pour surveiller et analyser l'utilisation de notre Service et pour te contacter.
-- **Pour les transferts d'entreprise** : On peut partager ou transférer tes infos personnelles dans le cadre ou pendant les négociations de toute fusion, vente d'actifs de la Société, financement ou acquisition de tout ou partie de notre activité par une autre société.
-- **Avec les Filiales** : On peut partager tes infos avec nos Filiales, auquel cas on exigera de ces filiales qu'elles respectent cette Politique de confidentialité. Les filiales incluent notre société mère et toute autre filiale, partenaire de coentreprise ou autre société que nous contrôlons ou qui est sous notre contrôle commun.
-- **Avec les partenaires commerciaux** : On peut partager tes infos avec nos partenaires commerciaux pour te proposer certains produits, services ou promotions.
-- **Avec d'autres utilisateurs** : Quand tu partages des infos personnelles ou interagis d'une autre manière dans les zones publiques avec d'autres utilisateurs, ces infos peuvent être vues par tous les utilisateurs et peuvent être diffusées publiquement à l'extérieur.
-- **Avec ton consentement** : On peut divulguer tes infos personnelles à toute autre fin avec ton consentement.
+- **与服务提供商共享**：我们可能与服务提供商共享您的个人信息，以监控和分析我们服务的使用情况，并与您联系。
+- **为业务转让**：我们可能在任何合并、公司资产出售、融资或将我们全部或部分业务收购给另一家公司的谈判期间或过程中共享或转让您的个人信息。
+- **与关联公司共享**：我们可能与我们的关联公司共享您的信息，在这种情况下，我们将要求这些关联公司遵守本隐私政策。关联公司包括我们的母公司和任何其他子公司、合资伙伴或我们控制的或与我们共同受控的其他公司。
+- **与业务伙伴共享**：我们可能与我们的业务伙伴共享您的信息，以便为您提供某些产品、服务或促销活动。
+- **与其他用户共享**：当您在公共区域与其他用户共享个人信息或进行互动时，这些信息可能被所有用户查看，并可能在外部公开发布。
+- **经您同意**：经您同意，我们可能为任何其他目的披露您的个人信息。
 
-### Conservation de tes données personnelles
-La Société ne conservera tes Données personnelles que le temps nécessaire aux fins énoncées dans cette Politique de confidentialité. On conservera et utilisera tes Données personnelles dans la mesure nécessaire pour se conformer à nos obligations légales (par exemple, si on doit conserver tes données pour respecter les lois applicables), résoudre les litiges et appliquer nos accords et politiques juridiques.
+### 您个人数据的保留
+公司将仅在本隐私政策所述目的所必需的期限内保留您的个人数据。我们将在遵守我们的法律义务（例如，如果我们需要保留您的数据以遵守适用法律）、解决争议和执行我们的法律协议和政策所需的范围内保留和使用您的个人数据。
 
-La Société conservera aussi les Données d'utilisation à des fins d'analyse interne. Les Données d'utilisation sont généralement conservées pendant une période plus courte, sauf si ces données sont utilisées pour renforcer la sécurité ou améliorer la fonctionnalité de notre Service, ou si on est légalement obligé de conserver ces données plus longtemps.
+公司还将为内部分析目的保留使用数据。使用数据通常保留较短时间，除非这些数据用于加强我们服务的安全性或改进其功能，或者我们有法律义务将这些数据保留更长时间。
 
-### Transfert de tes données personnelles
-Tes infos, y compris les Données personnelles, sont traitées dans les bureaux d'exploitation de la Société et dans tout autre lieu où se trouvent les parties impliquées dans le traitement. Cela signifie que ces infos peuvent être transférées et maintenues sur des ordinateurs situés en dehors de ton état, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de ta juridiction.
+### 您个人数据的传输
+您的信息（包括个人数据）在公司的运营办公室以及参与处理的各方所在的任何其他地方进行处理。这意味着这些信息可能会被传输到并保存在您所在州、省、国家或其他政府管辖区之外的计算机上，这些地方的数据保护法可能与您管辖区的法律不同。
 
-Ton consentement à cette Politique de confidentialité, suivi de la soumission de ces infos, représente ton accord pour ce transfert.
+您同意本隐私政策并提交此类信息，即表示您同意该传输。
 
-La Société prendra toutes les mesures raisonnablement nécessaires pour s'assurer que tes données sont traitées en toute sécurité et conformément à cette Politique de confidentialité et aucun transfert de tes Données personnelles n'aura lieu vers une organisation ou un pays à moins qu'il n'y ait des contrôles adéquats en place, y compris la sécurité de tes données et autres infos personnelles.
+公司将采取一切合理必要的措施，确保您的数据得到安全处理并符合本隐私政策，除非有足够的控制措施（包括对您的数据和其他个人信息的安全保障），否则不会将您的个人数据传输到任何组织或国家。
 
-### Divulgation de tes données personnelles
+### 删除您的个人数据
+您有权删除或请求我们协助删除我们收集的关于您的个人数据。
 
-#### Transactions commerciales
-Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, tes Données personnelles pourraient être transférées. On t'informera avant que tes Données personnelles ne soient transférées et ne soient soumises à une politique de confidentialité différente.
+我们的服务可能使您能够从服务内部删除有关您的某些信息。
 
-#### Application de la loi
-Dans certaines circonstances, la Société peut être tenue de divulguer tes Données personnelles si la loi l'exige ou en réponse à des demandes valides d'autorités publiques (par exemple, un tribunal ou une agence gouvernementale).
+您可以随时登录您的账户（如果您有），并访问允许您管理个人信息的账户设置部分，来更新、修改或删除您的信息。您也可以联系我们，请求访问、更正或删除您提供给我们的任何个人信息。
 
-#### Autres exigences légales
-La Société peut divulguer tes Données personnelles en toute bonne foi si une telle action est nécessaire pour :
-- Se conformer à une obligation légale
-- Protéger et défendre les droits ou la propriété de la Société
-- Prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Service
-- Protéger la sécurité personnelle des utilisateurs du Service ou du public
-- Se protéger contre la responsabilité légale
+但请注意，当我们有法律义务或合法依据时，我们可能需要保留某些信息。
 
-### Sécurité de tes données personnelles
-La sécurité de tes Données personnelles est importante pour Nous, mais souviens-toi qu'aucune méthode de transmission sur Internet, ni aucune méthode de stockage électronique n'est 100% sécurisée. Bien qu'on s'efforce d'utiliser des moyens commercialement acceptables pour protéger tes Données personnelles, on ne peut pas garantir leur sécurité absolue.
+### 您个人数据的披露
 
-## Confidentialité des enfants
-Notre Service ne s'adresse à personne de moins de 13 ans. On ne collecte pas sciemment d'infos perso identifiables de personnes de moins de 13 ans. Si tu es un parent ou un tuteur et que tu sais que ton enfant nous a fourni des Données personnelles, contacte-nous s'il te plaît. Si on découvre qu'on a collecté des Données personnelles de quelqu'un de moins de 13 ans sans vérification du consentement parental, on prendra des mesures pour supprimer ces infos de nos serveurs.
+#### 商业交易
+如果公司涉及合并、收购或资产出售，您的个人数据可能会被转移。我们将在您的个人数据被转移并受制于不同的隐私政策之前发出通知。
 
-Si on doit se baser sur le consentement comme base légale pour traiter tes infos et que ton pays exige le consentement d'un parent, on peut demander le consentement de tes parents avant de collecter et d'utiliser ces infos.
+#### 执法
+在某些情况下，如果法律要求或应公共机构（如法院或政府机构）的有效请求，公司可能被要求披露您的个人数据。
 
-## Liens vers d'autres sites web
-Notre Service peut contenir des liens vers d'autres sites web qui ne sont pas gérés par Nous. Si tu cliques sur un lien tiers, tu seras redirigé vers le site de ce tiers. On te conseille fortement de consulter la Politique de confidentialité de chaque site que tu visites.
+#### 其他法律要求
+公司可能出于善意相信此类行动是必要的，从而披露您的个人数据，以：
+- 遵守法律义务
+- 保护和捍卫公司的权利或财产
+- 防止或调查与服务相关的可能的不当行为
+- 保护服务用户或公众的人身安全
+- 防范法律责任
 
-On n'a aucun contrôle et on n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques des sites ou services tiers.
+### 您个人数据的安全
+您的个人数据的安全对我们很重要，但请记住，没有任何通过互联网传输的方法或电子存储方法是100%安全的。虽然我们努力使用商业上可接受的方式来保护您的个人数据，但我们不能保证其绝对安全。
 
-## Modifications de cette Politique de confidentialité
-On peut mettre à jour notre Politique de confidentialité de temps en temps. On t'informera de tout changement en publiant la nouvelle Politique de confidentialité sur cette page.
+## 儿童隐私
+我们的服务不针对13岁以下的任何人。我们不会故意收集13岁以下任何人的个人身份信息。如果您是父母或监护人，并且您知道您的孩子向我们提供了个人数据，请与我们联系。如果我们发现我们在未经父母同意验证的情况下收集了13岁以下任何人的个人数据，我们将采取措施从我们的服务器中删除该信息。
 
-On te préviendra par e-mail et/ou par une notification bien visible sur notre Service, avant que le changement ne devienne effectif, et on mettra à jour la date « Dernière mise à jour » en haut de cette Politique de confidentialité.
+如果我们需要依赖同意作为处理您信息的法律依据，并且您所在的国家/地区要求父母同意，我们可能会在收集和使用该信息之前要求您父母的同意。
 
-Il est conseillé de consulter régulièrement cette Politique de confidentialité pour tout changement. Les changements de cette Politique de confidentialité sont effectifs dès qu'ils sont publiés sur cette page.
+## 指向其他网站的链接
+我们的服务可能包含指向非我们运营的其他网站的链接。如果您点击第三方链接，您将被引导至该第三方的网站。我们强烈建议您查看您访问的每个网站的隐私政策。
 
-## Nous contacter
-Si tu as des questions sur cette Politique de confidentialité, tu peux nous contacter :
+我们无法控制任何第三方网站或服务的内容、隐私政策或做法，也不承担任何责任。
 
-- 📧 **E-mail** : [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+## 本隐私政策的变更
+我们可能会不时更新我们的隐私政策。我们将通过在此页面上发布新的隐私政策来通知您任何变更。
+
+在变更生效前，我们将通过电子邮件和/或我们服务上的显著通知告知您，并更新本隐私政策顶部的“最后更新日期”。
+
+建议您定期查看本隐私政策以了解任何变更。本隐私政策的变更在发布于此页面时生效。
+
+## 联系我们
+如果您对本隐私政策有任何疑问，您可以通过以下方式联系我们：
+
+- 📧 **邮箱**： [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
